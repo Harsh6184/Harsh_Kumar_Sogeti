@@ -1,0 +1,78 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "form-feature;successful-form-submission-with-valid-data",
+        "keyword": "Scenario Outline",
+        "line": 38,
+        "name": "Successful form submission with valid data",
+        "steps": [
+          {
+            "result": {
+              "status": "passed",
+              "duration": 1643659700
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "undefined",
+              "duration": 0
+            },
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 32,
+            "name": "the user is on the form page"
+          },
+          {
+            "result": {
+              "status": "undefined",
+              "duration": 0
+            },
+            "arguments": [],
+            "keyword": "When ",
+            "line": 33,
+            "name": "the user fills out the form with John D, john.d@example.com, Male, 1234567890, 29122002, Math, Reading, 123 Main St, NCR, and Agra"
+          },
+          {
+            "result": {
+              "status": "undefined",
+              "duration": 0
+            },
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 34,
+            "name": "the form should be submitted successfully"
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 303964099
+            },
+            "keyword": "After",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 1376100
+            },
+            "keyword": "After",
+            "hidden": true
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "form-feature",
+    "line": 28,
+    "keyword": "Feature",
+    "name": "Form Feature",
+    "tags": [],
+    "uri": "features\\register.feature"
+  }
+]
