@@ -1,0 +1,25 @@
+{
+  "cookies": [
+    {
+      "name": "_ga",
+      "value": "GA1.1.614927292.1788432923",
+      "domain": ".playwrightpad.in",
+      "path": "/",
+      "expires": 1822992923.348085,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_ZPRYLX7H2P",
+      "value": "GS2.1.s1788432923$o1$g1$t1788432923$j60$l0$h1228364658",
+      "domain": ".playwrightpad.in",
+      "path": "/",
+      "expires": 1822992923.682581,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
